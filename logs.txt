@@ -1,0 +1,18 @@
+U1, /
+U1, login
+U1, subscriber
+U2, /
+U2, login
+U2, subscriber
+U3, /
+U3, login
+U3, product
+U1, /
+U4, /
+U4, login
+U5,/
+U4, product
+U5, login
+U5, subscriber
+
+

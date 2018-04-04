@@ -1,0 +1,5 @@
+User1 , /
+User1 , login
+User2,/
+User2,subscriber
+User2, login
