@@ -22,7 +22,7 @@ public class Application {
         }
     }
 
-    public void start(String file, int n) {
+    private void start(String file, int n) {
         service.setup(inputProcessor.getData(file));
         String[] result = service.getTopNPopularPaths(n);
         printResult(result);
